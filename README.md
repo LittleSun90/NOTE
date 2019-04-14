@@ -1,2 +1,2 @@
-# NOTE
+# Notes
 Study wiki
